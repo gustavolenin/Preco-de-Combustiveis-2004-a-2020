@@ -8,4 +8,4 @@
 
 Este dataset foi obtido na [Basedosdados](https://basedosdados.org/dataset/br-anp-precos-combustiveis?bdm_table=microdados) e contém informações de preços de combustíveis de 2004 a 2020. Em cumprimento às determinações da Lei do Petróleo (Lei nº 9478/1997, artigo 8º), a ANP acompanha os preços praticados por revendedores de combustíveis automotivos e de gás liquefeito de petróleo envasilhado em botijões de 13 quilos (GLP P13), por meio de uma pesquisa semanal de preços realizada por empresa contratada.
 
-Neste projeto, o objetivo é realizar uma análise exploratória dos dados com objetivo de identificar insights no dataset.
+Neste projeto, o objetivo é realizar uma análise exploratória dos dados com objetivo de identificar insights no dataset e em seguida realizar a implementação de um modelo de machine learning visando obter predições dos preços de vendas de combustíveis.
